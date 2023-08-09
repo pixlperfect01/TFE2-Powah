@@ -1,0 +1,63 @@
+[
+    {
+        "className": "PowahManager",
+        "name": "Powah Manager",
+        "description": "The main building for managing all your Powah",
+        "food": 0,
+        "wood": 0,
+        "stone": 0,
+        "machineParts": 0,
+        "refinedMetal": 0,
+        "computerChips": 0,
+        "knowledge": 0,
+        "category": "Powah",
+        "unlockedByDefault": true,
+        "specialInfo": []
+    },
+    {
+        "className": "PowahGenerator",
+        "name": "Powah Generator",
+        "description": "Produces Powah for your city",
+        "food": 0,
+        "wood": 0,
+        "stone": 0,
+        "machineParts": 0,
+        "refinedMetal": 0,
+        "computerChips": 0,
+        "knowledge": 0,
+        "category": "Powah",
+        "unlockedByDefault": true,
+        "jobs": 1,
+        "specialInfo": []
+    },
+    {
+        "className": "PowahCable",
+        "name": "Powah Cable",
+        "description": "Transfers Powah in your city",
+        "food": 0,
+        "wood": 0,
+        "stone": 0,
+        "machineParts": 0,
+        "refinedMetal": 0,
+        "computerChips": 0,
+        "knowledge": 0,
+        "category": "Powah",
+        "unlockedByDefault": true,
+        "specialInfo": []
+    },
+    {
+        "className": "PowahCell",
+        "name": "Powah Cell",
+        "description": "Stores Powah for your city",
+        "food": 0,
+        "wood": 0,
+        "stone": 0,
+        "machineParts": 0,
+        "refinedMetal": 0,
+        "computerChips": 0,
+        "knowledge": 0,
+        "category": "Powah",
+        "unlockedByDefault": true,
+        "specialInfo": []
+    }
+]
